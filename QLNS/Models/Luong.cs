@@ -11,7 +11,7 @@ namespace QLNS.Models
 
         [ForeignKey("NhanVien")]
         public int MaNhanVien { get; set; }
-        public NhanVien NhanVien { get; set; }
+        public NhanVien? NhanVien { get; set; }
 
         public int Thang { get; set; }
         public int Nam { get; set; }

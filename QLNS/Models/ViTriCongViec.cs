@@ -13,7 +13,7 @@ namespace QLNS.Models
         public string TenViTri { get; set; }
 
         [Required]
-        [Precision(2, 2)]
+        [Precision(3, 2)]
         public decimal HeSoLuong { get; set; }
 
         public ICollection<NhanVien>? NhanViens { get; set; }

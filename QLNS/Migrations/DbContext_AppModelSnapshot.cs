@@ -189,8 +189,8 @@ namespace QLNS.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MaViTri"));
 
                     b.Property<decimal>("HeSoLuong")
-                        .HasPrecision(2, 2)
-                        .HasColumnType("decimal(2,2)");
+                        .HasPrecision(3, 2)
+                        .HasColumnType("decimal(3,2)");
 
                     b.Property<string>("TenViTri")
                         .IsRequired()

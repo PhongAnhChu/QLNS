@@ -37,12 +37,12 @@ namespace QLNS.Models
         // Liên kết với Phòng Ban
         [ForeignKey("PhongBan")]
         public int MaPhongBan { get; set; }
-        public PhongBan PhongBan { get; set; }
+        public PhongBan? PhongBan { get; set; }
 
         // Liên kết với vị trí công việc
         [ForeignKey("ViTriCongViec")]
         public int MaViTri { get; set; }
-        public ViTriCongViec ViTriCongViec { get; set; }
+        public ViTriCongViec? ViTriCongViec { get; set; }
 
         public ICollection<Luong>? Luongs { get; set; }
         public ICollection<YeuCauNghiPhep>? YeuCauNghiPheps { get; set; }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mbbCZYVzLgr7ZTfU7sEUq12EHzUmf3yNZwO5bezmpHk=",
+  "Hash": "EWxuTIXQ21N72/lLaE9fGnpVVE5C2x1Uvg3pVh7i9uE=",
   "Source": "QLNS",
   "BasePath": "_content/QLNS",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "vww8pfs43f",
-      "Integrity": "n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY=",
+      "Fingerprint": "q8tpi33dg7",
+      "Integrity": "tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\2025-HK1\\NhapMon\\BTL_Final1\\QLNS\\QLNS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QLNS.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "vww8pfs43f",
-      "Integrity": "n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY=",
+      "Fingerprint": "q8tpi33dg7",
+      "Integrity": "tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\2025-HK1\\NhapMon\\BTL_Final1\\QLNS\\QLNS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QLNS.bundle.scp.css"
@@ -6251,7 +6251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1122"
+          "Value": "2256"
         },
         {
           "Name": "Content-Type",
@@ -6259,11 +6259,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY=\""
+          "Value": "\"tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 15:43:23 GMT"
+          "Value": "Sat, 01 Mar 2025 22:01:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6273,7 +6273,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY="
+          "Value": "sha256-tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw="
+        }
+      ]
+    },
+    {
+      "Route": "QLNS.q8tpi33dg7.bundle.scp.css",
+      "AssetFile": "E:\\2025-HK1\\NhapMon\\BTL_Final1\\QLNS\\QLNS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QLNS.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 22:01:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q8tpi33dg7"
+        },
+        {
+          "Name": "label",
+          "Value": "QLNS.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw="
+        }
+      ]
+    },
+    {
+      "Route": "QLNS.q8tpi33dg7.styles.css",
+      "AssetFile": "E:\\2025-HK1\\NhapMon\\BTL_Final1\\QLNS\\QLNS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QLNS.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 22:01:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q8tpi33dg7"
+        },
+        {
+          "Name": "label",
+          "Value": "QLNS.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw="
         }
       ]
     },
@@ -6288,7 +6378,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1122"
+          "Value": "2256"
         },
         {
           "Name": "Content-Type",
@@ -6296,11 +6386,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY=\""
+          "Value": "\"tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 15:43:23 GMT"
+          "Value": "Sat, 01 Mar 2025 22:01:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6310,97 +6400,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY="
-        }
-      ]
-    },
-    {
-      "Route": "QLNS.vww8pfs43f.bundle.scp.css",
-      "AssetFile": "E:\\2025-HK1\\NhapMon\\BTL_Final1\\QLNS\\QLNS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QLNS.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1122"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 15:43:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vww8pfs43f"
-        },
-        {
-          "Name": "label",
-          "Value": "QLNS.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY="
-        }
-      ]
-    },
-    {
-      "Route": "QLNS.vww8pfs43f.styles.css",
-      "AssetFile": "E:\\2025-HK1\\NhapMon\\BTL_Final1\\QLNS\\QLNS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QLNS.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1122"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 15:43:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vww8pfs43f"
-        },
-        {
-          "Name": "label",
-          "Value": "QLNS.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n21EolPaLulCwo9ovHeVHcXaPSUbQzpknVEvQNlJqNY="
+          "Value": "sha256-tvGdp5oT+LTxCuHQYSs1rd1xALYSiPMgx/KOmbhbQTw="
         }
       ]
     }
